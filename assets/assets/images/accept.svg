@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.25" height="27.25" viewBox="0 0 25.25 27.25">
+  <g id="accept" transform="translate(-17.19 0.25)">
+    <g id="Group_393" data-name="Group 393" transform="translate(17.44 13.577)">
+      <g id="Group_392" data-name="Group 392">
+        <path id="Path_900" data-name="Path 900" d="M28.671,288.389c-7.243,0-11.231,3.426-11.231,9.648a.88.88,0,0,0,.88.88h20.7a.88.88,0,0,0,.88-.88C39.9,291.816,35.914,288.389,28.671,288.389Zm-9.44,8.768c.346-4.652,3.517-7.008,9.44-7.008s9.094,2.357,9.44,7.008Z" transform="translate(-17.44 -288.389)" fill="#58595b" stroke="#58595b" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_395" data-name="Group 395" transform="translate(22.836)">
+      <g id="Group_394" data-name="Group 394">
+        <path id="Path_901" data-name="Path 901" d="M137.885,0a5.766,5.766,0,0,0-5.836,5.953,5.855,5.855,0,1,0,11.671,0A5.766,5.766,0,0,0,137.885,0Zm0,10.527a4.352,4.352,0,0,1-4.076-4.575,4,4,0,0,1,4.076-4.193,4.045,4.045,0,0,1,4.076,4.193A4.352,4.352,0,0,1,137.885,10.527Z" transform="translate(-132.049)" fill="#58595b" stroke="#58595b" stroke-width="0.5"/>
+      </g>
+    </g>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="7" cy="7" r="7" transform="translate(28.439 13)" fill="#fff"/>
+    <path id="Icon_feather-check" data-name="Icon feather-check" d="M12.646,9,8.077,13.569,6,11.492" transform="translate(26.116 8.965)" fill="none" stroke="#58595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
